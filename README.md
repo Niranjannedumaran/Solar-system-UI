@@ -2,6 +2,7 @@
 
 Solar System Explorer
 "Solar System Explorer is an interactive web application that allows users to explore detailed facts about the planets and moons of our solar system—all built in pure HTML and CSS. The project features an animated solar system, clickable planets, visually engaging transitions, and comprehensive information sections for each celestial body. Whether for learning or inspiration, the interface provides an immersive and beautiful way to visualize astronomy concepts with zero JavaScript dependency.
+![Screenshot_25-9-2025_20536_127 0 0 1](https://github.com/user-attachments/assets/b35eff14-be72-4be1-bfb8-096c05ec2c1f)
 
 Features
 Fully interactive solar system model built with only HTML and CSS
